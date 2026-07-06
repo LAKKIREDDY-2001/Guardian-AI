@@ -1,0 +1,6 @@
+{
+  "name": "Guardian AI",
+  "description": "Guardian AI is a predictive community digital twin system that models future scenarios, analyzes public safety indices, and recommends preventive actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
